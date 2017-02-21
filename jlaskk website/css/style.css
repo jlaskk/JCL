@@ -1,0 +1,13 @@
+.html  {
+	color: black;
+	}
+#headshot {
+	height: 400px;
+	width: 600px;
+	margin: auto;
+}
+#berkeley {
+	height: 300px;
+	width: 200px;
+	left: 150px;
+}
